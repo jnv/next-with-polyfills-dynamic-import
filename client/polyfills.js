@@ -10,4 +10,4 @@ async function loadPolyfills() {
 }
 
 console.log('Load your polyfills')
-loadPolyfills()
+export default loadPolyfills()
